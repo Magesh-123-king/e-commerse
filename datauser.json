@@ -1,0 +1,43 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "img": "/src/assets/fruits/banana.jpg",
+      "name": "Banana - 1 dozen",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "img": "/src/assets/fruits/Apple.jpg",
+      "name": "Apple - 1 dozen",
+      "price": 140
+    },
+    {
+      "id": 3,
+      "img": "/src/assets/fruits/pineapple.jpg",
+      "name": "PineApple - 1 dozen",
+      "price": 120
+    }
+  ],
+
+  "vegetable": [
+    {
+      "id": 4,
+      "img": "/src/assets/vegtables/carrot.jpg",
+      "name": "Carrot - 1 kg",
+      "price": 60
+    },
+    {
+      "id": 5,
+      "img": "/src/assets/vegtables/tamato.jpg",
+      "name": "Tomato - 1 kg",
+      "price": 40
+    },
+    {
+      "id": 6,
+      "img": "/src/assets/vegtables/potato.jpg",
+      "name": "Potato - 1 kg",
+      "price": 60
+    }
+  ]
+}
